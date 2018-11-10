@@ -1,8 +1,8 @@
 # XYZ-Reader Material Design
 ## Udacity Android Advanced Nanodegree
-*by Ioannis Anifantakis*
+*by Nwokocha Wisdoms*
 
-Materialize the XYZ Reader project
+Material the XYZ Reader project
 
 Main Activity
 

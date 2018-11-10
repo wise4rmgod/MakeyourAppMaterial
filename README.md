@@ -6,10 +6,10 @@ Material the XYZ Reader project
 
 Main Activity
 
-![Master Activity](https://raw.githubusercontent.com/test2209/assets-udacity-and/master/project-5-material-design/screenshot-1.png)
+![Master Activity](https://res.cloudinary.com/wise4rmgod/image/upload/v1541878403/Screenshot_20181110-193600.png)
 
 
 
 Detail Activity
 
-![Detail Activity](https://raw.githubusercontent.com/test2209/assets-udacity-and/master/project-5-material-design/screenshot-2.png)
+![Detail Activity](https://res.cloudinary.com/wise4rmgod/image/upload/v1541878394/Screenshot_20181110-193627.png)

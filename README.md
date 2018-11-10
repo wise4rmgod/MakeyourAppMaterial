@@ -1,6 +1,6 @@
 # XYZ-Reader Material Design
 ## Udacity Android Advanced Nanodegree
-*by Nwokocha Wisdoms*
+*by Nwokocha Wisdom*
 
 Material the XYZ Reader project
 
